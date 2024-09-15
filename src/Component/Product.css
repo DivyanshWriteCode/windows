@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #fff; /* Assuming a white text color for contrast */
+    text-align: center;
+    box-sizing: border-box; /* Ensures padding and border are included in the width/height */
+    padding: 10px; /* Add padding to give some space around the content */
+}
+
+h3, p {
+    margin: 0; /* Remove default margins */
+}

@@ -1,0 +1,4 @@
+.box:hover {
+    transition: .5s ease-in-out;
+	-webkit-transform: scale(1.05);
+}
