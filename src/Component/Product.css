@@ -7,12 +7,12 @@
 .box {
     border: 1px solid #ccc;
     border-radius: 4px;
-    color: #fff; /* Assuming a white text color for contrast */
+    color: #fff; 
     text-align: center;
-    box-sizing: border-box; /* Ensures padding and border are included in the width/height */
-    padding: 10px; /* Add padding to give some space around the content */
+    box-sizing: border-box; 
+    padding: 10px;
 }
 
 h3, p {
-    margin: 0; /* Remove default margins */
+    margin: 0;
 }
